@@ -1,1 +1,2 @@
 log one
+log two
